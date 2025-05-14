@@ -1,0 +1,7 @@
+UserType: Admin
+UserName: Antoni
+Password: 04892
+
+UserType: Admin
+UserName: Mahmoud
+Password: 1234
